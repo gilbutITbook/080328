@@ -1,10 +1,3 @@
-# 모두의 한국어 텍스트 분석 with 파이썬 
-
-책에서 사용하는 코드는 별도 환경 설정 없이 구글 코랩에서 바로 실습할 수 있도록 준비했다. </br>
-Open in Colab 버튼을 누르면 코랩으로 이동해 바로 실습할 수 있다. 자세한 방법은 1장에서 설명하니 이를 참고하기 바란다.</br></br>
-
-
-
 * 2.0. python-string.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/2.0.%20python-string.ipynb) 
 
 * 3.1. pandas.ipynb : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytextbook/pytextbook/blob/main/3.1.%20pandas.ipynb) 
